@@ -19,4 +19,9 @@ Please go through the LAb manuals before looking at the code.
 * **LAB-6:**
   - Part 1: Use the HC-SR04 Ultrasonic sensor to get the distance value of the object kept infront and display the reading on the serial monitor
   - Part 2: Use the bluetooth functionality of the ESP32 dev module to communicate with the Serial bluetooth terminal on the phone.
+* **LAB-7:**
+  - Part 1: Build resource tree on oneM2M server.
+  - Part 2: Create CIN in your resource tree from esp32.
+  - Part 3: Fetch data and create graph.
+  
 
