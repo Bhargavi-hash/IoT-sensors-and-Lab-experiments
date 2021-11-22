@@ -1,7 +1,11 @@
 # IoT-sensors-and-Lab-experiments
 Arduino code for the tasks given in IoT lab with few of their pictures and vedios
 ## Brief overview on what has been covered in the sessions
-Please go through the LAb manuals before looking at the code.
+Please go through the LAB manuals before looking at the code.
+* **LAB-1:**
+  - Part 1: In this lab session, we will introduce how to control an external device like LED and BUZZER using the pins on ESP32.
+  - Part 2: In this lab session,we will introduce how to print the output of the sensor data on to serial monitor using the micro USB cable. 
+  - Part 3: In this lab session, we will introduce how to read the inputs using Serial.read from the serial monitor and controlling the buzzer’s frequency using the tone function.
 * **LAB-2:**
   - Part 1: DHT11 temperature and humidity sensor with arduino IDE
   - Part 2: Controlling the ServoMotor by setting threshold
