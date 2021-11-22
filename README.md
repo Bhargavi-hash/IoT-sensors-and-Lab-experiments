@@ -23,5 +23,8 @@ Please go through the LAb manuals before looking at the code.
   - Part 1: Build resource tree on oneM2M server.
   - Part 2: Create CIN in your resource tree from esp32.
   - Part 3: Fetch data and create graph.
+* **LAB-8:**
+  - Part 1: ESP32 Publish sensor data to Thingspeak using ESP32.
+  - Part 2: Control an LED using Thingspeak.
   
 
